@@ -1,0 +1,8486 @@
+{
+    "audio": "./songs/Unwelcome_School/audio.wav",
+    "title": "Unwelcome_School [track_0]",
+    "background": "./songs/Unwelcome_School/bg.jpg",
+    "offset": 0.8,
+    "chart_data": [
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 0.0,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 0.333333,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 0.666666,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 0.9166657500000001,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 1.1666655000000001,
+            "note": [
+                68
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 1.333332,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 1.4999985,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 1.666665,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 1.8333315000000001,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 1.9999980000000002,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 2.1666645,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 2.24999775,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 2.666664,
+            "note": [
+                79
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 2.8333305,
+            "note": [
+                78
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 2.999997,
+            "note": [
+                77
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 3.1666635000000003,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 3.33333,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 3.4999965,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 3.6666630000000002,
+            "note": [
+                71
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 3.8333295,
+            "note": [
+                70
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 3.9999960000000003,
+            "note": [
+                71
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 4.1666625,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 4.333329,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 4.4999955,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 4.6666620000000005,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 4.999995,
+            "note": [
+                64
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 5.333328,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 5.666661,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 5.999994,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 6.249993750000001,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 6.4999935,
+            "note": [
+                68
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 6.66666,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 6.8333265,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 6.999993,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 7.166659500000001,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 7.3333260000000005,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 7.4999925,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 7.58332575,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 7.999992000000001,
+            "note": [
+                79
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 8.1666585,
+            "note": [
+                78
+            ],
+            "velocity": 66,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 8.333325,
+            "note": [
+                77
+            ],
+            "velocity": 68,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 8.4999915,
+            "note": [
+                75
+            ],
+            "velocity": 70,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 8.666658,
+            "note": [
+                76
+            ],
+            "velocity": 72,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 8.8333245,
+            "note": [
+                77
+            ],
+            "velocity": 74,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 8.999991,
+            "note": [
+                78
+            ],
+            "velocity": 76,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 9.166657500000001,
+            "note": [
+                79
+            ],
+            "velocity": 78,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 9.333324000000001,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 9.499990500000001,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 82,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 9.666657,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 88,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 9.8333235,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 90,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 9.99999,
+            "note": [
+                71,
+                83
+            ],
+            "velocity": 99,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 10.666656,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 10.999989000000001,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 11.333322,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 11.58332175,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 11.8333215,
+            "note": [
+                64,
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 11.999988,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 12.1666545,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 12.333321,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 12.499987500000001,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 12.666654000000001,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 12.833320500000001,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 12.91665375,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 13.33332,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 13.4999865,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 13.666653,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 13.8333195,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 13.999986,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 14.166652500000001,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 14.333319000000001,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 14.499985500000001,
+            "note": [
+                67,
+                70
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 14.666652000000001,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 14.8333185,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 14.999985,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 15.1666515,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 15.333318,
+            "note": [
+                68,
+                71,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 15.666651,
+            "note": [
+                56,
+                59,
+                64
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 15.999984000000001,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 16.333317,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 16.66665,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 16.91664975,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 17.166649500000002,
+            "note": [
+                64,
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 17.333316,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 17.4999825,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 17.666649,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 17.8333155,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 17.999982,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 18.1666485,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 18.24998175,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 18.666648000000002,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 18.8333145,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 18.999981000000002,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 19.1666475,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 19.333314,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 19.4999805,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 19.666647,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 19.8333135,
+            "note": [
+                76,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 19.99998,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 20.166646500000002,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 20.333313,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 20.499979500000002,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 20.666646,
+            "note": [
+                80,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 20.8333125,
+            "note": [
+                60,
+                64
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 20.999979,
+            "note": [
+                63,
+                66
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 21.1666455,
+            "note": [
+                64,
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 21.333312,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 21.666645000000003,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 21.999978000000002,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 22.24997775,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 22.4999775,
+            "note": [
+                64,
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 22.666644,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 22.8333105,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 22.999977,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 23.1666435,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 23.33331,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 23.499976500000002,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 23.58330975,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 23.999976,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.166642500000002,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.333309,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.4999755,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.666642,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.8333085,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 24.999975000000003,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 25.1666415,
+            "note": [
+                67,
+                70
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 25.333308000000002,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 25.4999745,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 25.666641000000002,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 25.8333075,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 25.999974,
+            "note": [
+                68,
+                71,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 26.333307,
+            "note": [
+                56,
+                59,
+                64
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 26.66664,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 26.999973,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 27.333306,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 27.58330575,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 27.8333055,
+            "note": [
+                64,
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 27.999972,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 28.1666385,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 28.333305000000003,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 28.4999715,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 28.666638000000003,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 28.8333045,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 28.91663775,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 29.333304000000002,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 29.4999705,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 29.666637,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 29.833303500000003,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 29.99997,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 30.166636500000003,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 30.333303,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 30.499969500000002,
+            "note": [
+                76,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 30.666636,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 30.833302500000002,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 30.999969,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 31.1666355,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 31.333302,
+            "note": [
+                80,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 31.999968000000003,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 32.1666345,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 32.333301,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 32.499967500000004,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 32.666634,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 32.8333005,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 32.999967,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 33.1666335,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 33.3333,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 33.4999665,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 33.666633000000004,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 33.8332995,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 33.999966,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 34.1666325,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 34.333299000000004,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 34.4999655,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 34.666632,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 34.999965,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 35.333298,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 35.666631,
+            "note": [
+                67,
+                79
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 35.999964,
+            "note": [
+                66,
+                78
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 36.333297,
+            "note": [
+                65,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 36.666630000000005,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 36.999963,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 37.333296000000004,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 37.4999625,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 37.666629,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 37.8332955,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 37.999962000000004,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 38.1666285,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 38.333295,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 38.499961500000005,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 38.666628,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 38.8332945,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 38.999961,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 39.166627500000004,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 39.333294,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 39.4999605,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 39.666627,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 39.8332935,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 39.99996,
+            "note": [
+                69,
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 40.333293000000005,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 40.666626,
+            "note": [
+                71,
+                83
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 40.999959000000004,
+            "note": [
+                72,
+                84
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 41.333292,
+            "note": [
+                73,
+                85
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 41.666625,
+            "note": [
+                74,
+                86
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 41.999958,
+            "note": [
+                77,
+                89
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 42.333291,
+            "note": [
+                75,
+                87
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 42.666624,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 42.833290500000004,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 42.999957,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 43.1666235,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 43.333290000000005,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 43.4999565,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 43.666623,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 43.8332895,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 43.999956000000005,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 44.1666225,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 44.333289,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 44.4999555,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 44.666622000000004,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 44.8332885,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 44.999955,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 45.166621500000005,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 45.333288,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 45.666621,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 45.999954,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 46.333287,
+            "note": [
+                67,
+                79
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 46.66662,
+            "note": [
+                66,
+                78
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 46.999953000000005,
+            "note": [
+                65,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 47.333286,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 47.666619000000004,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 47.999952,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 48.166618500000006,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 48.333285000000004,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 48.4999515,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 48.666618,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 48.833284500000005,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 48.999951,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 49.1666175,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 49.333284,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 49.499950500000004,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 49.666617,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 49.8332835,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 49.999950000000005,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 50.1666165,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 50.333283,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 50.4999495,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 50.666616000000005,
+            "note": [
+                57,
+                60,
+                69
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 50.999949,
+            "note": [
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 51.006198993750004,
+            "note": [
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 51.0124489875,
+            "note": [
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 51.1666155,
+            "note": [
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 51.333282000000004,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 51.4999485,
+            "note": [
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 51.666615,
+            "note": [
+                69
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 51.833281500000005,
+            "note": [
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 51.999948,
+            "note": [
+                75
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 52.00619799375,
+            "note": [
+                76
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 52.0124479875,
+            "note": [
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 52.1666145,
+            "note": [
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 52.333281,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 52.499947500000005,
+            "note": [
+                72
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 53.33328,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 53.666613000000005,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 53.999946,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 54.24994575,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 54.4999455,
+            "note": [
+                68
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 54.666612,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 54.833278500000006,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 54.999945000000004,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 55.1666115,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 55.333278,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 55.499944500000005,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 55.58327775,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 55.999944,
+            "note": [
+                79
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 56.166610500000004,
+            "note": [
+                78
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 56.333277,
+            "note": [
+                77
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 56.4999435,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 56.666610000000006,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 56.833276500000004,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 56.999943,
+            "note": [
+                71
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 57.1666095,
+            "note": [
+                70
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 57.333276000000005,
+            "note": [
+                71
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 57.4999425,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 57.666609,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 57.8332755,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 57.999942000000004,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 58.666608000000004,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 58.999941,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 59.333274,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 59.583273750000004,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 59.833273500000004,
+            "note": [
+                68
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 59.99994,
+            "note": [
+                69
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 60.1666065,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 60.333273000000005,
+            "note": [
+                74
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 60.4999395,
+            "note": [
+                72
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 60.666606,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 60.8332725,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 60.91660575,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 61.333272,
+            "note": [
+                79
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 61.499938500000006,
+            "note": [
+                78
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 61.666605000000004,
+            "note": [
+                77
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 61.8332715,
+            "note": [
+                75
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 61.999938,
+            "note": [
+                76
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 62.166604500000005,
+            "note": [
+                77
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 62.333271,
+            "note": [
+                78
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 62.4999375,
+            "note": [
+                79
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 62.666604,
+            "note": [
+                80
+            ],
+            "velocity": 64,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 62.833270500000005,
+            "note": [
+                80
+            ],
+            "velocity": 66,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 62.999937,
+            "note": [
+                81
+            ],
+            "velocity": 71,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 63.1666035,
+            "note": [
+                81
+            ],
+            "velocity": 73,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 63.333270000000006,
+            "note": [
+                83
+            ],
+            "velocity": 81,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 63.999936000000005,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 64.333269,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 64.666602,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 64.91660175,
+            "note": [
+                69,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 65.1666015,
+            "note": [
+                68
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 65.333268,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 65.49993450000001,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 65.666601,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 65.8332675,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 65.999934,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 66.1666005,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 66.24993375,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 66.6666,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 66.83326650000001,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 66.999933,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 67.1665995,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 67.33326600000001,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 67.4999325,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 67.666599,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 67.8332655,
+            "note": [
+                67,
+                70
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 67.999932,
+            "note": [
+                68,
+                71
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 68.1665985,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 68.333265,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 68.4999315,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 68.66659800000001,
+            "note": [
+                71,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 69.333264,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 69.66659700000001,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 69.99993,
+            "note": [
+                69,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 70.24992975,
+            "note": [
+                69,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 70.49992950000001,
+            "note": [
+                68
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 70.666596,
+            "note": [
+                64,
+                69
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 70.8332625,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 70.99992900000001,
+            "note": [
+                71,
+                74
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 71.1665955,
+            "note": [
+                69,
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 71.333262,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 71.49992850000001,
+            "note": [
+                71,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 71.58326175,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 71.999928,
+            "note": [
+                75,
+                79
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 72.1665945,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 72.33326100000001,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 72.4999275,
+            "note": [
+                72,
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 72.666594,
+            "note": [
+                72,
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 72.83326050000001,
+            "note": [
+                74,
+                77
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 72.999927,
+            "note": [
+                75,
+                78
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 73.1665935,
+            "note": [
+                76,
+                79
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 73.33326000000001,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 73.4999265,
+            "note": [
+                76,
+                80
+            ],
+            "velocity": 82,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 73.666593,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 84,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 73.8332595,
+            "note": [
+                78,
+                81
+            ],
+            "velocity": 86,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 73.999926,
+            "note": [
+                80,
+                83
+            ],
+            "velocity": 88,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 74.333259,
+            "note": [
+                83
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 74.3457589875,
+            "note": [
+                88
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 74.35895341875,
+            "note": [
+                92
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 74.37284229375,
+            "note": [
+                95
+            ],
+            "velocity": 92,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 74.66659200000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 74.74992525,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 74.8332585,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 74.91659175000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 74.999925,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 75.08325825,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.16659150000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 75.24992475,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.333258,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 75.41659125000001,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.4999245,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 75.58325775,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.666591,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 75.74992425,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.8332575,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 75.91659075,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 75.99992400000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 76.08325725,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 76.1665905,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 76.24992375000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 76.333257,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 76.41659025,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 76.49992350000001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 76.58325675,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 76.66659,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 76.74992325000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 76.8332565,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 76.91658975,
+            "note": [
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 76.99992300000001,
+            "note": [
+                63
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 77.08325625,
+            "note": [
+                62
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 77.1665895,
+            "note": [
+                60
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 77.24992275000001,
+            "note": [
+                57
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 77.333256,
+            "note": [
+                62
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 77.41658925,
+            "note": [
+                63
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 77.4999225,
+            "note": [
+                64
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 77.58325575,
+            "note": [
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 77.666589,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 77.74992225,
+            "note": [
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 77.8332555,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 77.91658875,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 77.999922,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 78.08325525000001,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 78.1665885,
+            "note": [
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 78.24992175,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 78.33325500000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 78.41658825,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 78.4999215,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 78.58325475000001,
+            "note": [
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 78.666588,
+            "note": [
+                75,
+                82,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 78.83325450000001,
+            "note": [
+                76,
+                83,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 78.999921,
+            "note": [
+                76,
+                83,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 79.1665875,
+            "note": [
+                76,
+                83,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "click_time": 79.333254,
+            "note": [
+                76,
+                80,
+                83,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 79.666587,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 79.8332535,
+            "note": [
+                93
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 79.91658675000001,
+            "note": [
+                91
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 79.99992,
+            "note": [
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 80.08325325,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 80.16658650000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 80.24991975,
+            "note": [
+                81,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 80.333253,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 80.41658625000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 80.4999195,
+            "note": [
+                81,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 80.58325275,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 80.66658600000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 80.74991925,
+            "note": [
+                81,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 80.8332525,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 80.91658575000001,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 80.999919,
+            "note": [
+                81,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 81.08325225,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 81.1665855,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 81.24991875,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 81.333252,
+            "note": [
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 81.41658525,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 81.4999185,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 81.555474,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 81.6110295,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 81.666585,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 81.74991825000001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 81.8332515,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 81.888807,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 81.9443625,
+            "note": [
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 81.99991800000001,
+            "note": [
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 82.08325125,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 82.1665845,
+            "note": [
+                63
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 82.22214000000001,
+            "note": [
+                62
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 82.27769550000001,
+            "note": [
+                60
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 82.333251,
+            "note": [
+                62
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 82.41658425,
+            "note": [
+                60
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 82.49991750000001,
+            "note": [
+                57
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 82.58325075,
+            "note": [
+                55
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 82.666584,
+            "note": [
+                57,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 82.99991700000001,
+            "note": [
+                60,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 83.1665835,
+            "note": [
+                55,
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 83.33325,
+            "note": [
+                57,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 83.4999165,
+            "note": [
+                55,
+                67
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 83.666583,
+            "note": [
+                60,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 83.83324950000001,
+            "note": [
+                62,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 83.999916,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 84.1665825,
+            "note": [
+                60,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 84.33324900000001,
+            "note": [
+                62,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 84.4999155,
+            "note": [
+                60,
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 84.666582,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 84.83324850000001,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 84.999915,
+            "note": [
+                65,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 85.1665815,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 85.333248,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 85.41658125000001,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 85.4999145,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 85.58324775,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 85.66658100000001,
+            "note": [
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 85.8332475,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 85.999914,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 86.08324725,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 86.16658050000001,
+            "note": [
+                73
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 86.24991375,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 86.333247,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 86.41658025000001,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 86.4999135,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 86.58324675,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 86.66658000000001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 86.8332465,
+            "note": [
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 86.91657975,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 86.999913,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 87.08324625,
+            "note": [
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 87.1665795,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 87.24991275000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 87.333246,
+            "note": [
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 87.41657925,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 87.49991250000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 87.58324575,
+            "note": [
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 87.666579,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 87.74991225000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 87.8332455,
+            "note": [
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 87.91657875,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 87.99991200000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 88.08324525,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 88.1665785,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 88.24991175000001,
+            "note": [
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 88.333245,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 88.41657825,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 88.49991150000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 88.58324475,
+            "note": [
+                68
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 88.666578,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 88.74991125000001,
+            "note": [
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 88.8332445,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 88.91657775,
+            "note": [
+                73
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 88.999911,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 89.08324425,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 89.1665775,
+            "note": [
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 89.24991075,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 89.33324400000001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 89.41657725,
+            "note": [
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 89.4999105,
+            "note": [
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 89.58324375000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 89.666577,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 89.74991025,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 89.83324350000001,
+            "note": [
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 89.91657675,
+            "note": [
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 89.99991,
+            "note": [
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 90.08324325000001,
+            "note": [
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 90.1665765,
+            "note": [
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 90.24990975,
+            "note": [
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 90.33324300000001,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 90.41657625,
+            "note": [
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 90.4999095,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 90.58324275000001,
+            "note": [
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 90.666576,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 90.74990925,
+            "note": [
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 90.8332425,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 90.91657575,
+            "note": [
+                71
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 90.999909,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 91.08324225,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 91.16657550000001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 91.24990875,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 91.333242,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 91.41657525000001,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 91.4999085,
+            "note": [
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 91.58324175,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 91.66657500000001,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 91.74990825,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 91.8332415,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 91.91657475000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 91.999908,
+            "note": [
+                69,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 92.16657450000001,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 92.24990775,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 92.333241,
+            "note": [
+                69,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 92.4999075,
+            "note": [
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 92.58324075,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 92.666574,
+            "note": [
+                69,
+                74
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 92.8332405,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 92.99990700000001,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 93.1665735,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 93.33324,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 93.49990650000001,
+            "note": [
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 93.666573,
+            "note": [
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 93.8332395,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 93.99990600000001,
+            "note": [
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 94.1665725,
+            "note": [
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 94.333239,
+            "note": [
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 94.49990550000001,
+            "note": [
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 94.666572,
+            "note": [
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 94.83323850000001,
+            "note": [
+                76,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1
+            ],
+            "click_time": 94.999905,
+            "note": [
+                76,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 95.1665715,
+            "note": [
+                76,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2,
+                3
+            ],
+            "click_time": 95.33323800000001,
+            "note": [
+                76,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 95.999904,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 96.1665705,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 96.33323700000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 96.4999035,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 96.66657000000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 96.8332365,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 96.999903,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 97.16656950000001,
+            "note": [
+                74,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 97.333236,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 97.4999025,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 97.66656900000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 97.8332355,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 97.999902,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 98.16656850000001,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 98.333235,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 98.4999015,
+            "note": [
+                71,
+                80,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 98.666568,
+            "note": [
+                69,
+                76,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 98.99990100000001,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 99.333234,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 99.666567,
+            "note": [
+                67,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 99.99990000000001,
+            "note": [
+                66,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 100.333233,
+            "note": [
+                65,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 100.666566,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 100.999899,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 101.33323200000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 101.4998985,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 101.666565,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 101.83323150000001,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 101.999898,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 102.1665645,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 102.333231,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 102.4998975,
+            "note": [
+                74,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 102.66656400000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 102.8332305,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 102.999897,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 103.16656350000001,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 103.33323,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 103.4998965,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 103.66656300000001,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 103.8332295,
+            "note": [
+                74,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "click_time": 103.999896,
+            "note": [
+                76,
+                81,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 104.333229,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 104.666562,
+            "note": [
+                71,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 104.99989500000001,
+            "note": [
+                72,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 105.333228,
+            "note": [
+                73,
+                85
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 105.666561,
+            "note": [
+                74,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 105.999894,
+            "note": [
+                77,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 106.33322700000001,
+            "note": [
+                75,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 106.66656,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 106.83322650000001,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 106.999893,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 107.1665595,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 107.33322600000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 107.4998925,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 107.666559,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 107.83322550000001,
+            "note": [
+                74,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 107.999892,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 108.16655850000001,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 108.333225,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 108.4998915,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 108.66655800000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 108.8332245,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 108.999891,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 109.16655750000001,
+            "note": [
+                71,
+                80,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 109.333224,
+            "note": [
+                69,
+                76,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 109.66655700000001,
+            "note": [
+                69,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 109.99989000000001,
+            "note": [
+                68,
+                80
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 110.333223,
+            "note": [
+                67,
+                79
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 110.666556,
+            "note": [
+                66,
+                78
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 110.99988900000001,
+            "note": [
+                65,
+                77
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2
+            ],
+            "click_time": 111.333222,
+            "note": [
+                63,
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                3
+            ],
+            "click_time": 111.666555,
+            "note": [
+                64,
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 111.999888,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 112.1665545,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 112.33322100000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 112.4998875,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 112.666554,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 112.83322050000001,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 112.999887,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 113.1665535,
+            "note": [
+                74,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 113.33322000000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 113.4998865,
+            "note": [
+                75,
+                83,
+                87
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 113.66655300000001,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 113.8332195,
+            "note": [
+                77,
+                86,
+                89
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 113.999886,
+            "note": [
+                76,
+                84,
+                88
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 114.16655250000001,
+            "note": [
+                74,
+                83,
+                86
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                3
+            ],
+            "click_time": 114.333219,
+            "note": [
+                72,
+                81,
+                84
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                1,
+                2
+            ],
+            "click_time": 114.4998855,
+            "note": [
+                71,
+                80,
+                83
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1,
+                2,
+                3
+            ],
+            "click_time": 114.66655200000001,
+            "note": [
+                57,
+                60,
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 114.999885,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 115.00613499375001,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 115.0123849875,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 115.16655150000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 115.333218,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 115.49988450000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 115.666551,
+            "note": [
+                69
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 115.8332175,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 115.99988400000001,
+            "note": [
+                75
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 116.00613399375,
+            "note": [
+                76
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 116.0123839875,
+            "note": [
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 116.1665505,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 116.333217,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 116.49988350000001,
+            "note": [
+                72
+            ],
+            "velocity": 96,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 117.666549,
+            "note": [
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 117.67279899375,
+            "note": [
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 117.67904898750001,
+            "note": [
+                81
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 117.83321550000001,
+            "note": [
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 117.999882,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 118.1665485,
+            "note": [
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 118.33321500000001,
+            "note": [
+                69
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 118.4998815,
+            "note": [
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0
+            ],
+            "click_time": 118.666548,
+            "note": [
+                75
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 118.67279799375001,
+            "note": [
+                76
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                2
+            ],
+            "click_time": 118.6790479875,
+            "note": [
+                81
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                1
+            ],
+            "click_time": 118.83321450000001,
+            "note": [
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                0,
+                2,
+                3
+            ],
+            "click_time": 118.999881,
+            "note": [
+                74,
+                75,
+                81
+            ],
+            "velocity": 80,
+            "channel": 0
+        },
+        {
+            "key_index": [
+                3
+            ],
+            "click_time": 119.16654750000001,
+            "note": [
+                72
+            ],
+            "velocity": 80,
+            "channel": 0
+        }
+    ]
+}
